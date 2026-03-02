@@ -1,0 +1,4 @@
+1.) Yazýlým tasarým prensipleri olan Solid tasarým prensiplerini yazýnýz ve kýsaca açýklayýnýz.
+2.) Yapýsal Tasarým Desenlerini yazýnýz.(Bu desenlerden iki tanesinin hangi probleme çözüm olarak kullanýldýðýný yazýnýz).
+3.) Davranýþsal Tasarým Desenlerini yazýnýz.(Bu desenlerden birinin use case'ini çiziniz).
+4.) Oluþturucu Tasarým Desenlerini yazýnýz.(Bu desenlerden singleton tasarým deseninin örnek kod üzerinde gösteriniz). 
